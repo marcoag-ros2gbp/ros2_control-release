@@ -1,0 +1,15 @@
+ros-rolling-hardware-interface-testing (4.5.0-2noble) noble; urgency=high
+
+
+
+ -- Bence Magyar <bence.magyar.robotics@gmail.com>  Mon, 12 Feb 2024 00:00:00 -0000
+
+ros-rolling-hardware-interface-testing (4.4.0-2noble) noble; urgency=high
+
+  * Fix version
+  * Move test_components to own package (#1325 <https://github.com/ros-controls/ros2_control/issues/1325>)
+  * Contributors: Bence Magyar, Christoph Fröhlich
+
+ -- Bence Magyar <bence.magyar.robotics@gmail.com>  Wed, 31 Jan 2024 00:00:00 -0000
+
+
